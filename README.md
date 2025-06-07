@@ -34,7 +34,7 @@ Windows might hide new tray icons by default. To keep the white paperclip icon a
 
 ## 🔐 Security Note
 
-This tool is safe and open-source. However, due to the nature of AutoIt executables, some antivirus programs (especially with 32-bit builds) may flag it with **false positives**. Use the [source code](https://github.com/avramovic/ClipCopy/blob/main/clipcopy.au3) to verify or compile your own build if desired.
+This tool is safe and open-source. However, due to the nature of AutoIt executables, some antivirus programs (especially with 32-bit builds) may flag it with **false positives**. Use the [source code](https://github.com/avramovic/ClipCopy/blob/master/clipcopy.au3) to verify or compile your own build if desired.
 
 ---
 
